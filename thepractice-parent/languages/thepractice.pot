@@ -1,0 +1,1726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Practice\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-26 12:59+0200\n"
+"PO-Revision-Date: 2012-06-26 13:00+0200\n"
+"Last-Translator: Valeriu <valeriuzdrobau@gmail.com>\n"
+"Language-Team: ThemeFuse <support@themefuse.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: E:\\wamp\\wamp\\www\\the_practice\\wp-content\\themes\\thepractice-parent\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:16
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:17
+msgid "The page you were looking for doesn&rsquo;t seem to exist"
+msgstr ""
+
+#: archive.php:20
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: comments-template.php:20
+msgid "Pingback:"
+msgstr ""
+
+#: comments-template.php:20
+msgid "Edit"
+msgstr ""
+
+#: comments-template.php:46
+#: comments-template.php:47
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:33
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:62
+msgid "No comments yet."
+msgstr ""
+
+#: comments.php:68
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:74
+msgid "You must be"
+msgstr ""
+
+#: comments.php:74
+msgid "logged in"
+msgstr ""
+
+#: comments.php:74
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:82
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:82
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:82
+msgid "Logout"
+msgstr ""
+
+#: comments.php:87
+msgid "Name"
+msgstr ""
+
+#: comments.php:94
+msgid "Email"
+msgstr ""
+
+#: comments.php:94
+msgid "(never published)"
+msgstr ""
+
+#: comments.php:108
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: comments.php:109
+#: content-contact-form.php:48
+msgid "reset all fields"
+msgstr ""
+
+#: content-author.php:46
+msgid "CONTACT THE AUTHOR:"
+msgstr ""
+
+#: content-careers-form.php:28
+#: content-contact-form.php:28
+msgid "Enter your name and surname"
+msgstr ""
+
+#: content-careers-form.php:35
+#: content-contact-form.php:35
+msgid "Enter your email address"
+msgstr ""
+
+#: content-careers-form.php:42
+msgid "Enter your message or Letter of Intent (optional)"
+msgstr ""
+
+#: content-careers-form.php:47
+msgid "I agree with"
+msgstr ""
+
+#: content-careers-form.php:47
+msgid "Terms & Conditions"
+msgstr ""
+
+#: content-careers-form.php:49
+msgid "SEND YOUR APPLICATION"
+msgstr ""
+
+#: content-careers-form.php:57
+#: content-contact-form.php:56
+msgid "Your message has been sent!"
+msgstr ""
+
+#: content-careers-form.php:58
+#: content-contact-form.php:57
+msgid "Thank you for contacting us,"
+msgstr ""
+
+#: content-careers-form.php:58
+#: content-contact-form.php:57
+msgid "We will get back to you within 2 business days."
+msgstr ""
+
+#: content-careers-form.php:63
+#: content-contact-form.php:62
+msgid "Oops!"
+msgstr ""
+
+#: content-careers-form.php:64
+#: content-contact-form.php:63
+msgid "Due to an unknown error, your form was not submitted, please resubmit it or try later."
+msgstr ""
+
+#: content-case.php:29
+#: content-single.php:44
+msgid "Share this article on"
+msgstr ""
+
+#: content-contact-form.php:42
+msgid "Enter your message"
+msgstr ""
+
+#: content-contact-form.php:47
+msgid "SEND YOUR MESSAGE"
+msgstr ""
+
+#: content-single.php:27
+msgid "Posted by "
+msgstr ""
+
+#: content-single.php:27
+msgid "filed in"
+msgstr ""
+
+#: content-single.php:51
+msgid "ADD A COMMENT"
+msgstr ""
+
+#: listing-blog.php:24
+#: listing-cases.php:22
+msgid "Read more"
+msgstr ""
+
+#: listing-blog.php:25
+msgid "Posted by"
+msgstr ""
+
+#: listing-cases.php:26
+msgid "The Charges"
+msgstr ""
+
+#: listing-cases.php:29
+msgid "The Verdict"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search for"
+msgstr ""
+
+#: framework/core/OPTIGEN.php:258
+#: framework/core/OPTIGEN.php:279
+msgid "Select a category:"
+msgstr ""
+
+#: framework/core/OPTIGEN.php:302
+#: framework/core/OPTIGEN.php:323
+msgid "Select a page:"
+msgstr ""
+
+#: framework/core/OPTIGEN.php:366
+msgid "Select a tag:"
+msgstr ""
+
+#: framework/core/OPTIGEN.php:414
+#: framework/core/OPTIGEN.php:422
+#: framework/core/OPTIGEN.php:426
+msgid "Remove"
+msgstr ""
+
+#: framework/core/OPTIGEN.php:563
+msgid "Upload"
+msgstr ""
+
+#: framework/core/UPDATER.php:132
+msgid "Proceed"
+msgstr ""
+
+#: framework/extensions/export/TF_EXPORT.php:4
+#: framework/extensions/import/TF_IMPORT.php:4
+msgid "Direct access forbidden."
+msgstr ""
+
+#: framework/extensions/export/views/after_download.php:7
+msgid "Failed to export XML file"
+msgstr ""
+
+#: framework/extensions/import/TFUSE_WP_IMPORT.php:50
+#: framework/extensions/import/TFUSE_WP_IMPORT.php:59
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:134
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:143
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:194
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:198
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/extensions/import/TFUSE_WP_IMPORT.php:51
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/extensions/import/TFUSE_WP_IMPORT.php:335
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:880
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/extensions/import/TFUSE_WP_IMPORT.php:341
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:886
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/extensions/import/TFUSE_WP_IMPORT.php:353
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:898
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/extensions/import/TFUSE_WP_IMPORT.php:359
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:904
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/extensions/import/views/install_error.php:7
+msgid "Failed to import XML file"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/parsers.php:42
+#: framework/extensions/import/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/parsers.php:67
+#: framework/extensions/import/wordpress-importer/parsers.php:72
+#: framework/extensions/import/wordpress-importer/parsers.php:262
+#: framework/extensions/import/wordpress-importer/parsers.php:451
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:267
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:505
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:753
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:760
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:823
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:836
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:1003
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:1010
+#, php-format
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:1025
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: framework/extensions/import/wordpress-importer/wordpress-importer.php:1026
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:75
+#: framework/extensions/seo/TF_SEO.php:122
+#, php-format
+msgid "Title for %s"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:76
+#: framework/extensions/seo/TF_SEO.php:123
+#, php-format
+msgid "Enter custom title for %s. These settings may be overridden for individual %s."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:83
+#: framework/extensions/seo/TF_SEO.php:130
+#, php-format
+msgid "Description for %s"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:84
+#: framework/extensions/seo/TF_SEO.php:131
+#, php-format
+msgid "Enter custom description for %s. These settings may be overridden for individual %s."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:93
+#: framework/extensions/seo/TF_SEO.php:139
+#, php-format
+msgid "Keywords for %s"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:94
+#: framework/extensions/seo/TF_SEO.php:140
+#, php-format
+msgid "Enter custom meta keywords for %s. These settings may be overridden for individual %s."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:148
+#, php-format
+msgid "Use noindex for %s"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:149
+#, php-format
+msgid "Enable or disable using of noindex for %s"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:159
+msgid "XML Sitemaps"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:162
+msgid "Enable XML Sitemaps"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:163
+msgid "Enable or disable XML Sitemaps. Sitemap will be generated when a new content will be added."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:178
+msgid "Please check the appropriate box below if there's a post type that you do <b>NOT</b> want to include in your sitemap"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:190
+#: framework/extensions/seo/TF_SEO.php:217
+#, php-format
+msgid "Exclude %s"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:205
+msgid "Please check the appropriate box below if there's a taxonomy that you do <b>NOT</b> want to include in your sitemap"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:235
+msgid "Use META keywords"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:236
+msgid "Use META keywords."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:243
+msgid "Use Canonical URLs"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:244
+msgid "Use Canonical URLs."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:251
+msgid "Title separator"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:252
+msgid "Title separator. Will be used by default to generate titles if some titles are not set"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:260
+msgid "General META"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:263
+msgid "General Description"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:264
+msgid "Enter general description for all the pages (categories, arhives,  posts, etc)"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:272
+msgid "General Keywords"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:273
+msgid "Enter general keywords for all the pages (categories, arhives,  posts, etc)"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:283
+msgid "Title for Homepage"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:284
+msgid "Enter custom title for Homepage."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:290
+msgid "Description for Homepage"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:291
+msgid "Enter custom description for Homepage."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:299
+msgid "Keywords for Homepage"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:300
+msgid "Enter custom keywords for Homepage."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:310
+msgid "Title for Archives"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:311
+msgid "Enter custom title for Archives. This title may be overridden by other specific archives (tags, categories, etc)"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:317
+msgid "Description for Archives"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:318
+msgid "Enter custom description for Archives. This description may be overridden by other specific archives (tags, categories, etc)"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:325
+msgid "Keywords for Archives"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:326
+msgid "Enter custom keywords for Archives. This keywords may be overridden by other specific archives (tags, categories, etc)"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:334
+msgid "Use noindex for Archive"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:335
+msgid "Enable or disable using of noindex for Archives."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:343
+msgid "Title for Author"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:344
+msgid "Enter custom title for Author Archives."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:350
+msgid "Description for Author"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:351
+msgid "Enter custom description for Author Archives."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:358
+msgid "Keywords for Author"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:359
+msgid "Enter custom keywords for Author Archives."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:367
+msgid "Use noindex for Author"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:368
+msgid "Enable or disable using of noindex for Author Archives."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:376
+msgid "Title for Date"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:377
+msgid "Enter custom title for Date Archives."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:383
+msgid "Description for Date"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:384
+msgid "Enter custom description for Date Archives."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:391
+msgid "Keywords for Date"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:392
+msgid "Enter custom keywords for Date Archives."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:400
+msgid "Use noindex for Date"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:401
+msgid "Enable or disable using of noindex for Date Archives."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:409
+msgid "Title for Attachment"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:410
+msgid "Enter custom title for Attachment."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:416
+msgid "Description for Attachment"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:417
+msgid "Enter custom description for Attachment."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:425
+msgid "Keywords for Attachment"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:426
+msgid "Enter custom keywords for Attachment."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:436
+msgid "Title for Search"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:437
+msgid "Enter custom title for Search."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:443
+msgid "Description for Search"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:444
+msgid "Enter custom description for Search."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:451
+msgid "Keywords for Search"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:452
+msgid "Enter custom keywords for Search."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:460
+msgid "Use noindex for Search"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:461
+msgid "Enable or disable using of noindex for Search."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:469
+msgid "Title for 404"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:470
+msgid "Enter custom title for 404."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:476
+msgid "Description for 404"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:477
+msgid "Enter custom description for 404."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:485
+msgid "Keywords for 404"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:486
+msgid "Enter custom keywords for 404."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:496
+msgid "Title for Paged"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:497
+msgid "Enter custom title suffix for Paged."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:516
+msgid "Help"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:523
+msgid "These tags can be included and will be replaced when a page is displayed."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:527
+msgid "Replaced with the date of the post/page"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:531
+msgid "Replaced with the title of the post/page"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:535
+msgid "The site's name"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:539
+msgid "The site's tagline / description"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:543
+msgid "Replaced with the post/page excerpt (or auto-generated if it does not exist)"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:547
+msgid "Replaced with the post/page excerpt (without auto-generation)"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:551
+msgid "Replaced with the current tag/tags"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:555
+msgid "Replaced with the post categories (comma separated)"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:559
+msgid "Replaced with the category description"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:563
+msgid "Replaced with the tag description"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:567
+msgid "Replaced with the term description"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:571
+msgid "Replaced with the term name"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:575
+msgid "Replaced with the post/page modified time"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:579
+msgid "Replaced with the post/page ID"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:583
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:587
+msgid "Replaced with the post/page author's userid"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:591
+msgid "Replaced with the current search phrase"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:595
+msgid "Replaced with the current time"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:599
+msgid "Replaced with the current date"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:603
+msgid "Replaced with the current month"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:607
+msgid "Replaced with the current year"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:611
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:615
+msgid "Replaced with the current page total"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:619
+msgid "Replaced with the current page number"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:623
+msgid "Attachment caption"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:656
+msgid "SEO"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:662
+msgid "Page Title"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:663
+msgid "Enter your prefered custom title or leave blank for deafault value."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:669
+msgid "Page Description"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:670
+msgid "Enter your prefered custom description or leave blank for deafault value."
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:677
+msgid "Page Keywords"
+msgstr ""
+
+#: framework/extensions/seo/TF_SEO.php:678
+msgid "Enter your prefered custom keywords or leave blank for deafault value."
+msgstr ""
+
+#: framework/extensions/seo/helpers/SEO.php:321
+msgid "Archive"
+msgstr ""
+
+#: framework/extensions/seo/helpers/SEO.php:353
+msgid "Author Archives"
+msgstr ""
+
+#: framework/extensions/seo/helpers/SEO.php:361
+msgid "Date Archive"
+msgstr ""
+
+#: framework/extensions/seo/helpers/SEO.php:393
+msgid "Search Results for "
+msgstr ""
+
+#: framework/extensions/seo/helpers/SEO.php:393
+#, php-format
+msgid "'%s'"
+msgstr ""
+
+#: framework/extensions/seo/helpers/SEO.php:407
+msgid "Page Not Found - 404 error"
+msgstr ""
+
+#: framework/extensions/slider/TF_SLIDER.php:405
+msgid "Select Slider:"
+msgstr ""
+
+#: framework/helpers/INTERFACE.php:33
+msgid "ThemeFuse Gallery Group"
+msgstr ""
+
+#: framework/helpers/UPGRADER.php:23
+#, php-format
+msgid "Updating %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/helpers/UPGRADER.php:24
+msgid "The package is at the latest version."
+msgstr ""
+
+#: framework/helpers/UPGRADER.php:25
+#, php-format
+msgid "Removing the old version of the %s&#8230;"
+msgstr ""
+
+#: framework/helpers/UPGRADER.php:26
+msgid "Could not remove the old version of the "
+msgstr ""
+
+#: framework/helpers/UPGRADER.php:27
+msgid "Update failed."
+msgstr ""
+
+#: framework/helpers/UPGRADER.php:28
+msgid "Package updated successfully."
+msgstr ""
+
+#: framework/helpers/UPGRADER.php:29
+msgid "Backing up files&#8230;"
+msgstr ""
+
+#: framework/helpers/UPGRADER.php:30
+msgid "Could not create backup directory."
+msgstr ""
+
+#: framework/helpers/UPGRADER.php:35
+msgid "Return to Framework page"
+msgstr ""
+
+#: framework/views/framework_header.php:25
+msgid "Framework"
+msgstr ""
+
+#: framework/views/framework_header.php:29
+msgid "ThemeMods"
+msgstr ""
+
+#: framework/views/framework_header.php:33
+msgid "Templates"
+msgstr ""
+
+#: framework/views/updater/update_page.php:3
+#: framework/views/updater/upgrade_preamble.php:3
+msgid "ThemeFuse Updates"
+msgstr ""
+
+#: framework/views/updater/upgrade_preamble.php:6
+#, php-format
+msgid "Last checked on %1$s at %2$s."
+msgstr ""
+
+#: framework/views/updater/upgrade_preamble.php:7
+msgid "Check Again"
+msgstr ""
+
+#: framework/views/updater/upgrade_preamble.php:13
+#, php-format
+msgid "You have the latest version of %s."
+msgstr ""
+
+#: framework/views/updater/upgrade_preamble.php:17
+#, php-format
+msgid "You have the latest version of %s. You do not need to update. However, if you want to re-install current version, you can do so automatically."
+msgstr ""
+
+#: framework/views/updater/upgrade_preamble.php:21
+#, php-format
+msgid "Upgrading %1$s will overwrite the current installed version of this theme. We recommend backing up your theme files before reinstalling the %1$s."
+msgstr ""
+
+#: framework/views/updater/upgrade_preamble.php:25
+msgid "Re-install Now"
+msgstr ""
+
+#: framework/views/updater/upgrade_preamble.php:30
+msgid "<strong>Important:</strong> before updating, please <a href=\"http://codex.wordpress.org/WordPress_Backups\" target=\"_blank\">back up your database and files</a>. For help with updates, visit the <a href=\"http://codex.wordpress.org/Updating_WordPress\" target=\"_blank\">Updating WordPress</a> Codex page."
+msgstr ""
+
+#: framework/views/updater/upgrade_preamble.php:34
+#, php-format
+msgid "An updated version of %s is available."
+msgstr ""
+
+#: framework/views/updater/upgrade_preamble.php:38
+msgid "Update Now"
+msgstr ""
+
+#: framework/views/updater/upgrade_preamble.php:80
+#, php-format
+msgid "<strong>Please Note:</strong> Any customizations you have made to theme files will be lost. Please consider using <a href=\"%s\">child themes</a> for modifications."
+msgstr ""
+
+#: framework/views/updater/upgrade_preamble.php:86
+msgid "While your site is being updated, it will be in maintenance mode. As soon as your updates are complete, your site will return to normal."
+msgstr ""
+
+#: theme_config/common_includes/COMMON_FUNC.php:15
+msgid "Default Reading Settings"
+msgstr ""
+
+#: theme_config/common_includes/COMMON_FUNC.php:16
+msgid "Blog posts"
+msgstr ""
+
+#: theme_config/common_includes/COMMON_FUNC.php:17
+msgid "Blog cases"
+msgstr ""
+
+#: theme_config/common_includes/COMMON_FUNC.php:18
+msgid "CATEGORIES"
+msgstr ""
+
+#: theme_config/common_includes/COMMON_FUNC.php:25
+msgid "CASE CATEGORIES"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:22
+#: theme_config/common_includes/CUSTOM_POSTS.php:77
+msgid "Add New"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:23
+msgid "Add New Case"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:24
+msgid "Edit Case info"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:25
+msgid "New Case"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:26
+msgid "All Cases"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:27
+msgid "View Case info"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:28
+msgid "Search Cases"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:29
+#: theme_config/common_includes/CUSTOM_POSTS.php:84
+msgid "Nothing found"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:30
+#: theme_config/common_includes/CUSTOM_POSTS.php:85
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:52
+msgid "Search Specialties"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:53
+msgid "All Specialties"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:54
+msgid "Parent Specialty"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:55
+msgid "Parent Specialty:"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:56
+msgid "Edit Specialty"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:57
+msgid "Update Specialty"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:58
+msgid "Add New Specialty"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:59
+msgid "New Specialty Name"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:78
+msgid "Add New Testimonial"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:79
+msgid "Edit Testimonial"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:80
+msgid "New Testimonial"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:81
+msgid "All Testimonials"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:82
+msgid "View Testimonial"
+msgstr ""
+
+#: theme_config/common_includes/CUSTOM_POSTS.php:83
+msgid "Search Testimonials"
+msgstr ""
+
+#: theme_config/common_includes/MENU.php:13
+msgid "Default Navigation"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/latest_posts.php:45
+msgid "by "
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/login.php:17
+msgid "Login Form"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/login.php:20
+msgid "Username"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/login.php:24
+msgid "Password"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/login.php:28
+msgid "Remember Me"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/login.php:31
+msgid "Forgot Password?"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/newsletter.php:21
+msgid "Newsletter"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/newsletter.php:23
+msgid "Sign up for our weekly newsletter to receive updates, news, and promos:"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/newsletter.php:32
+msgid "Thank you for your subscribtion."
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/newsletter.php:33
+msgid "Your email format is wrong!"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/newsletter.php:34
+msgid "Sad, but we couldn't add you to our mailing list ATM."
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/newsletter.php:38
+msgid "Enter your email address:"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/newsletter.php:42
+msgid "Also subscribe to"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/newsletter.php:42
+msgid "our RSS feed"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/newsletter.php:43
+msgid "Loading"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/toggle_code.php:15
+#: theme_config/extensions/shortcodes/shortcodes/toggle_code.php:135
+msgid "Toggle Content (click to open)"
+msgstr ""
+
+#: theme_config/extensions/shortcodes/shortcodes/widget.php:29
+#, php-format
+msgid "%s: Widget class not found. Make sure this widget exists and the class name is correct"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:274
+msgid "No Comments"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:276
+msgid " Comments"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:282
+msgid "Comments are off"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:373
+msgid "<span>OLDER</span>"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:374
+msgid "<span>NEWER</span>"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:711
+msgid "Also, you can find me on:"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:712
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:935
+msgid "Facebook"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:713
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:936
+msgid "Twitter"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:714
+msgid "Devian Art"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:715
+msgid "Flickr"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:934
+msgid "Follow us on"
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:937
+msgid "RSS"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Facebook.class.php:14
+msgid "TFuse - Facebook"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Facebook.class.php:33
+msgid "Facebook Social Plugins:"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Flickr.php:9
+msgid "TFuse - Flickr"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Flickr.php:22
+msgid "IMAGE GALLERY"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Flickr.php:42
+msgid "Flickr ID:"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Flickr.php:46
+msgid "Number of photos"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Newsletter.php:9
+msgid "TFuse - Newsletter"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Newsletter.php:60
+#: theme_config/widgets/TFuse_Widget_Popular_Post.php:53
+#: theme_config/widgets/TFuse_Widget_Selected_Categories.php:102
+#: theme_config/widgets/TFuse_Widget_Selected_Pages.php:69
+#: theme_config/widgets/TF_Nav_Menu_Widget.php:60
+#: theme_config/widgets/TF_Widget_Archives.php:68
+msgid "Title:"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Newsletter.php:64
+msgid "Activate RSS"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Popular_Post.php:9
+msgid "TFuse - Popular Posts"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Popular_Post.php:16
+msgid "POPULAR ARTICLES"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Popular_Post.php:57
+#: theme_config/widgets/TFuse_Widget_Tabs.php:75
+msgid "Number of posts"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Selected_Categories.php:33
+msgid "Show Selected Categories"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Selected_Categories.php:34
+msgid "TFuse Selected Categories"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Selected_Categories.php:107
+msgid "Show post counts"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Selected_Categories.php:109
+msgid "Select Categories List"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Selected_Pages.php:5
+msgid "Show Selected Pages"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Selected_Pages.php:6
+msgid "TFuse Selected Pages"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Selected_Pages.php:75
+msgid "Select Pages List"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Tabs.php:9
+msgid "TFuse - Tabs"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Tabs.php:34
+msgid "Recent Posts"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Tabs.php:35
+msgid "Most Commented"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Twitter.class.php:9
+msgid "Tfuse - Twitter Stream"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Twitter.class.php:49
+msgid "Title (optional):"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Twitter.class.php:53
+msgid "Username:"
+msgstr ""
+
+#: theme_config/widgets/TFuse_Widget_Twitter.class.php:57
+msgid "Limit:"
+msgstr ""
+
+#: theme_config/widgets/TF_Nav_Menu_Widget.php:5
+msgid "Add a custom menus as a widget."
+msgstr ""
+
+#: theme_config/widgets/TF_Nav_Menu_Widget.php:6
+msgid "TFuse Custom Menu"
+msgstr ""
+
+#: theme_config/widgets/TF_Nav_Menu_Widget.php:53
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: theme_config/widgets/TF_Nav_Menu_Widget.php:65
+msgid "Class:"
+msgstr ""
+
+#: theme_config/widgets/TF_Nav_Menu_Widget.php:70
+msgid "Select Menu:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Archives.php:5
+msgid "A monthly archive of your site&#8217;s posts"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Archives.php:6
+msgid "TFuse Archives"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Archives.php:17
+msgid "Archives"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Archives.php:32
+msgid "Select Month"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Archives.php:70
+msgid "Display as a drop down"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Calendar.php:5
+msgid "A calendar of your site&#8217;s posts"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Calendar.php:6
+msgid "TFuse Calendar"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Categories.php:5
+msgid "A list or dropdown of categories"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Categories.php:6
+msgid "TFuse Categories"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Categories.php:14
+msgid "Categories"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Categories.php:43
+msgid "Select Category"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Categories.php:112
+msgid "Show as dropdown"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Categories.php:115
+msgid "Show hierarchy"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Categories.php:118
+msgid "Show empty categories"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Categories.php:121
+msgid "Show as subcategories menu"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Commented_Posts.php:8
+msgid "TFuse - Discussed Posts"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Commented_Posts.php:14
+msgid "MOST DISCUSSED"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:7
+msgid "Add Contact in Sidebar"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:8
+msgid "TFuse Contact Widgets"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:45
+#: theme_config/widgets/TF_Widget_Contact.php:58
+msgid "Phone"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:50
+#: theme_config/widgets/TF_Widget_Contact.php:59
+msgid "Fax"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:76
+msgid "Call us"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:81
+msgid "Follow us"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:86
+msgid "Join us"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:127
+msgid "Name:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:131
+msgid "Address:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:135
+msgid "Phone:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:139
+msgid "Fax:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:143
+msgid "Email:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:147
+msgid "Skype:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:151
+msgid "Twitter URL:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:155
+msgid "Facebook URL:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Contact.php:160
+msgid "One row for phone and fax"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Links.php:5
+msgid "Your blogroll"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Links.php:6
+msgid "TFuse Links"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Links.php:27
+#: theme_config/widgets/TF_Widget_Links.php:65
+msgid "All Links"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Links.php:63
+msgid "Select Link Category"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Links.php:76
+msgid "Show Link Image"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Links.php:78
+msgid "Show Link Name"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Links.php:80
+msgid "Show Link Description"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Meta.php:5
+msgid "Log in/out, admin, feed and WP links"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Meta.php:6
+msgid "TFuse Meta"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Meta.php:12
+msgid "Meta"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Meta.php:28
+msgid "Syndicate this site using RSS 2.0"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Meta.php:28
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Meta.php:29
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Meta.php:29
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Meta.php:30
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Pages.php:5
+msgid "Your site&#8217;s WordPress Pages"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Pages.php:6
+msgid "TFuse Pages"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Pages.php:13
+msgid "Pages"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Pages.php:63
+msgid "Sort by:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Pages.php:65
+msgid "Page title"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Pages.php:66
+msgid "Page order"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Pages.php:67
+msgid "Page ID"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Pages.php:71
+msgid "Exclude:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Pages.php:73
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Recent_Comments.php:5
+msgid "The most recent comments"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Recent_Comments.php:6
+msgid "TFuse Recent Comments"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Recent_Comments.php:40
+msgid "Recent Comments"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Recent_Comments.php:96
+msgid "Number of comments to show:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Recent_Posts.php:8
+msgid "TFuse - Recent Articles"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Recent_Posts.php:14
+msgid "RECENT ARTICLES"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Search.php:8
+msgid "A search form for your site"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Search.php:9
+msgid "TFuse Search"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Search.php:14
+msgid "Search"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Tag_Cloud.php:5
+msgid "Your most used tags in cloud format"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Tag_Cloud.php:6
+msgid "TFuse Tag Cloud"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Tag_Cloud.php:17
+msgid "Tags"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Tag_Cloud.php:58
+msgid "Taxonomy:"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Text.php:5
+msgid "Arbitrary text or HTML"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Text.php:7
+msgid "TFuse Text"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Text.php:69
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Text.php:70
+msgid "No Margin and padding"
+msgstr ""
+
+#: theme_config/widgets/TF_Widget_Text.php:71
+msgid "Disable filters"
+msgstr ""
+

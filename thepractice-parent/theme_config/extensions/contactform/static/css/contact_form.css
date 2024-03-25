@@ -1,0 +1,232 @@
+.comment-form input[type="text"],.comment-form input[type="password"],.comment-form input[type="email"],.comment-form select {
+     height: 20px;
+ }
+.ajax_form .btn-submit2 {
+    background: url("../../../../../images/btn_arrow.png") no-repeat scroll right 0 transparent;
+    border: medium none;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: normal;
+    height: 32px;
+    line-height: 32px;
+    min-width: 50px;
+    padding: 0 25px 2px 20px;
+    text-transform: uppercase;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+}
+.comment-form .row  {
+    margin-right: 25px!important;
+}
+.tfuse_captcha_reload{
+    background-image:url('../images/reload.png') !important;
+    background-repeat: no-repeat;
+    height: 18px !important;
+    margin-top: 15px !important;
+    max-width: 16px !important;
+    vertical-align: top;
+    background-color: transparent;
+}
+#sidebar_disable .contact-form .row{
+    width: auto!important;
+}
+.ui-selectmenu{
+    margin-top:0 !important;
+}
+.ui-selectmenu-status{
+    padding-top:0.35em;
+    line-height: 0.4em;
+}
+
+.comment-form .ui-selectmenu{
+    background-color: #FFFFFF;
+}
+
+.comment-form  .select_styled{
+    top: 2px;
+    text-decoration: none !important;
+    height: 20px !important;
+    color: #777777 !important;
+}
+
+.comment-form .omega  {
+    margin-right:0px !important;
+}
+.comment-form .rowSubmit  {
+    margin-right:0px !important;
+}
+
+a, a:visited {
+    outline: medium none;
+    text-decoration: underline;
+}
+input[type="button"], button {
+    width: 30px;
+}
+.radiolabel{
+    padding-bottom: 3px!important;
+    padding-top: 7px!important;
+    float:none !important;
+}
+
+.multicheckbox input[type="radio"] {
+    margin-top: 9px!important;
+    float: left;
+}
+
+.checkbox input[type="checkbox"]{
+    margin-top: 3px!important;
+    float: left;
+}
+.comment-form .inputtext {
+    margin-top: 20px;
+    float: left;
+}
+
+.comment-form .row.checkbox{
+    padding: 0!important;
+}
+.ajax_form .infieldlabel label {
+    top: 32px !important;
+}
+.comment-form  .infieldlabel label.textarea{
+    top: 7px !important;
+    margin-left:-11px;}
+.ui-selectmenu-open li.ui-selectmenu-item-selected a
+{
+    color: #777777 !important;
+    font-weight:normal;
+    text-decoration: none !important;}
+
+/* preview */
+.contact-form .ui-selectmenu {
+    margin-right: 0px;
+}
+#TB_ajaxContent .ajax_form .btn-submit {
+    background: url("../../../../../images/btn_arrow.png") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: normal;
+    height: 32px;
+    line-height: 32px;
+    min-width: 50px;
+    padding: 0 25px 2px 20px;
+    text-transform: uppercase;
+    float:right;
+}
+.link-reset {
+    color: #D7002E !important;
+    font-size: 13px;
+    left: 0;
+    text-decoration: underline;
+    text-shadow: 0 1px 1px #FFFFFF;
+    top: 15px;
+}
+.link-reset:hover {
+    color: #000 !important;}
+
+#TB_ajaxContent #send {
+    cursor: pointer;
+}
+#TB_ajaxContent .ajax_form  .checkbox {
+    background-color: #FFFFFF !important;
+}
+#TB_ajaxContent .ajax_form label{
+    display:block;}
+
+#TB_ajaxContent  .ajax_form  .row{
+    margin-right:20px;
+}
+
+#TB_ajaxContent .ajax_form  .link-reset{
+    color: #D7002E !important;
+    font-size: 13px;
+    left: 0;
+    text-decoration: underline;
+    text-shadow: 0 1px 1px #FFFFFF;
+    top: 15px;}
+
+#TB_ajaxContent .ajax_form  .link-reset:hover{
+    color:#000!important;
+}
+#TB_ajaxContent #send {
+    font-family: 'CartoGothicStdBold' !important;
+    font-size: 11px !important;
+    font-weight: bold;
+    padding-bottom: 2px;
+    text-align: left;
+}
+
+#TB_ajaxContent .ui-selectmenu-menu li a, #TB_ajaxContent.ui-selectmenu-status {
+    background: none;
+}
+#TB_ajaxContent .ajax_form  .tfuse_captcha_input{
+    color:#666;
+    padding:5px;
+    border:1px solid #dcdcdc;
+    background:#fff !important;
+    resize:none;
+}
+
+#TB_ajaxContent.radiolabel{
+    padding-bottom: 3px!important;
+    padding-top: 7px!important;
+    float:none !important;
+}
+
+#TB_ajaxContent.multicheckbox input[type="radio"] {
+    margin-top: 9px!important;
+    float: left;
+}
+
+#TB_ajaxContent.checkbox input[type="checkbox"]{
+    margin-top: 3px!important;
+    float: left;
+}
+#TB_ajaxContent .ajax_form select {
+    height:32px !important;
+}
+
+#TB_ajaxContent .ajax_form .row .ui-selectmenu-status {
+    line-height: 1.4em !important;
+    padding-top: 0.35em;
+}
+
+#TB_ajaxContent .ajax_form .select_styled{
+    height: 30px !important;
+    border: 1px solid #E0E0E0;
+    color: #666666;
+    resize: none;}
+#TB_ajaxContent .select_styled {
+    top:0;
+}
+
+#TB_ajaxContent .ajax_form .inputtext, #TB_ajaxContent .tfuse_captcha_input, #TB_ajaxContent select {
+    margin-top: 0px;
+    height: 32px;
+    border: 1px solid #E0E0E0;
+    border-radius: 0;
+    color: #777777;
+}
+#TB_ajaxContent textarea{
+    border: 1px solid #E0E0E0;
+    border-radius: 0;
+    color: #777777;
+}
+#TB_ajaxContent .infieldlabel label.textarea {
+    margin-left: 0;
+    top: 7px !important;
+}
+#TB_ajaxContent input[type="text"],  #TB_ajaxContentinput[type="password"], #TB_ajaxContent textarea {
+    background: none !important;
+    color: #777777;
+}
+
+.ui-state-default .ui-corner-top .ui-tabs-selected .ui-state-active .ui-state-hover{
+    text-decoration: none!important;
+}
+.ui-state-default .ui-corner-top .ui-tabs-selected .ui-state-active:hover{
+    text-decoration: none!important;
+}

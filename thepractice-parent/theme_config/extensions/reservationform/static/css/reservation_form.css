@@ -1,0 +1,219 @@
+.contact-form label {
+    color: #000;
+    font-style: normal;}
+.reservationForm .field_text .inputtext, .reservationForm select{
+     margin-right:25px !important;
+}
+.comment-form .infieldlabel label.textarea {
+    margin-left: -11px;
+    top: 7px !important;
+    color: #777777;
+}
+.reservationForm .btn-submit {
+    float:right;
+    margin: 10px 0;
+}
+
+.reservationForm .link-reset {
+    color: #D7002E !important;
+    font-size: 13px;
+    left: 0;
+    position: relative;
+    text-decoration: underline;
+    text-shadow: 0 1px 1px #FFFFFF;
+    top: 15px;
+}
+.link-reset:hover {
+    color: #000 !important;}
+
+label[for=the-practice_checkin],label[for=the-practice_checkout]{
+    margin-bottom: -18px;
+}
+.reservationForm .omega .inputtext{
+    margin-right:0px !important;
+}
+
+.reservationForm .omega .inputtext{
+    margin-right:0;
+}
+.reservationForm .infieldlabel label {
+    top: 32px !important;
+}
+.comment-form .select_styled{
+    padding: 0 0;}
+
+.reservationForm .field_textarea textarea{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    margin-bottom:0;
+    resize:none;
+}
+.radiolabel{
+    padding-bottom: 3px!important;
+    padding-top: 7px!important;
+    float:none !important;
+}
+
+.multicheckbox input[type="radio"] {
+    margin-top: 9px!important;
+    float: left;
+}
+
+.checkbox input[type="checkbox"]{
+    margin-top: 3px!important;
+    float: left;
+}
+
+.reservationForm .field_text .inputtext, .reservationForm select, .reservationForm textarea {
+    color: #777777;
+    font-weight: normal;
+    margin: 20px 0;
+}
+
+.reservationForm input[type="text"],  .reservationForm input[type="password"],.reservationForm textarea {
+    border: 1px solid #E0E0E0;
+    border-radius: 0;
+    color: #A6A6A6;
+    padding: 8px 10px 8px 10px;
+}
+.reservationForm input[type="text"],.reservationForm input[type="password"],
+.reservationForm input[type="email"],.reservationForm select {
+    height: 16px;}
+
+.tfuse_captcha_reload{
+    background-image:url(../images/reload.png)!important;
+    background-repeat: no-repeat;
+    height: 18px !important;
+    margin-top: 15px !important;
+    max-width: 16px !important;
+    vertical-align: top;
+    background-color: transparent;
+    width: 20px;
+}
+
+.reservationForm .ui-selectmenu{
+    margin-right:25px;
+    color: #777777;
+    height: 32px;
+}
+.ui-selectmenu-menu li a, .ui-selectmenu-status ,ui-selectmenu-item-selected {
+    color: #777777;
+}
+
+.reservationForm .omega .ui-selectmenu{
+    margin-right:0px;
+}
+
+.reservationForm .field_text .tfuse_rf_post_datepicker_in, .reservationForm .field_text .tfuse_rf_post_datepicker_out{
+    background-image: url("../../../../../framework/static/images/picker_icon.jpg");
+    background-repeat: no-repeat;
+    background-position: 7px 8px;
+    padding-left: 30px;
+    width: 16px;
+    height: 16px;
+    margin-top: 2px;
+}
+.reservationForm .ui-state-default,.reservationForm .ui-widget-content .ui-state-default,
+.reservationForm .ui-widget-header .ui-state-default {
+    border:0;
+}
+
+/* preview */
+#TB_ajaxContent .reservationForm input[type="text"], #TB_ajaxContent .reservationForm input[type="password"],
+#TB_ajaxContent .reservationForm textarea{
+    background: #FFFFFF ;
+}
+#TB_ajaxContent .inputtext, #TB_ajaxContent .tfuse_captcha_input{
+    height: 34px;
+}
+#TB_ajaxContent label[for="the-practice_checkin"],#TB_ajaxContent label[for="the-practice_checkout"] {
+    margin-bottom: 0;
+}
+#TB_ajaxContent .field_text .inputtext, #TB_ajaxContent select{
+    margin-right:25px !important;
+}
+#TB_ajaxContent input[type="text"],#TB_ajaxContent input[type="password"],#TB_ajaxContent textarea {
+    background: #FFF !important;
+}
+.wp-admin #ui-datepicker-div {
+    top: 233px !important;
+    z-index: 9999 !important;
+}
+#TB_ajaxContent label{
+    display: block;
+}
+#TB_ajaxContent {
+    color: #000000 !important;
+}
+#TB_ajaxContent .infieldlabel label.textarea {
+    margin-left: 0;
+    color: #000000;
+}
+#TB_window a:link {
+    color: #D7002E;
+}
+#TB_ajaxContent .checkbox {
+    background-color: #FFFFFF !important;
+}
+
+#TB_ajaxContent .reservationForm .btn-submit {
+    background: url("../../../../../images/btn_arrow.png") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: normal;
+    height: 32px;
+    line-height: 32px;
+    min-width: 50px;
+    padding: 0 25px 2px 20px;
+    text-transform: uppercase;
+}
+#TB_ajaxContent .reservationForm .field_text .inputtext,#TB_ajaxContent .reservationForm select,
+#TB_ajaxContent .reservationForm textarea {
+    margin: 0 0;
+}
+#TB_ajaxContent .field_text .tfuse_rf_post_datepicker_in, #TB_ajaxContent .field_text .tfuse_rf_post_datepicker_out{
+    background-image: url("../../../../../framework/static/images/picker_icon.jpg") !important;
+    background-repeat: no-repeat !important;
+    background-position: 7px 8px !important;
+    padding-left: 30px !important;
+    height: 34px !important;
+}
+#TB_ajaxContent  .ui-state-default,#TB_ajaxContent  .ui-widget-content .ui-state-default,
+#TB_ajaxContent  .ui-widget-header .ui-state-default {
+    background: #fff;
+    border: 1px solid #E0E0E0;
+}
+
+.ui-selectmenu { display: block; position:relative; height:32px; text-decoration: none; overflow:hidden; font-family:Arial, Helvetica, sans-serif}
+.ui-selectmenu-icon { position:absolute; right:6px; margin-top:-8px; top: 50%; }
+.ui-selectmenu-menu { padding:0; margin:0; list-style:none; position:absolute; top: 0; visibility: hidden; overflow: auto;font-family:Arial, Helvetica, sans-serif }
+.ui-selectmenu-open { visibility: visible; background:#fff;}
+.ui-selectmenu-menu-popup { margin-top: -1px; }
+.ui-selectmenu-menu-dropdown { z-index: 1000;}
+.ui-selectmenu-menu li { padding:0; margin:0; display: block; border-bottom: 1px solid #e0e0e0;  border-top: 0px dotted transparent; border-right-width: 0 !important; border-left-width: 0 !important; font-weight: normal !important; }
+.ui-selectmenu-menu li a,.ui-selectmenu-status {line-height: 1.4em; display:block; padding:.5em 10px; outline:none; text-decoration:none;}
+.ui-selectmenu-menu li.ui-selectmenu-hasIcon a,
+.ui-selectmenu-hasIcon .ui-selectmenu-status { padding-left: 20px; position: relative; margin-left: 5px; }
+.ui-selectmenu-menu li .ui-icon, .ui-selectmenu-status .ui-icon { position: absolute; top: 1em; margin-top: -8px; left: 0; }
+.ui-selectmenu-status { line-height: 1.4em; }
+.ui-selectmenu-menu-dropdown li a:hover, .ui-selectmenu-menu-dropdown .ui-state-hover { border:none; color:#777777; text-decoration: none; background:#ececee; }
+.ui-selectmenu-open li.ui-selectmenu-item-focus a {}
+.ui-selectmenu-open li.ui-selectmenu-item-selected a { color:#777777; font-weight:normal}
+.ui-selectmenu-menu li span,.ui-selectmenu-status span { display:block; margin-bottom: .2em; }
+.ui-selectmenu-menu li .ui-selectmenu-item-header { font-weight: bold; }
+.ui-selectmenu-menu li .ui-selectmenu-item-content {  }
+.ui-selectmenu-menu li .ui-selectmenu-item-footer { opacity: .9; }
+/*for optgroups*/
+.ui-selectmenu-menu .ui-selectmenu-group { font-size: 1em; }
+.ui-selectmenu-menu .ui-selectmenu-group .ui-selectmenu-group-label { line-height: 1.4em; display:block; padding:.6em .5em 0; font-weight: bold; }
+.ui-selectmenu-menu .ui-selectmenu-group ul { margin: 0; padding: 0; }
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+    border-radius: 0;
+}
+
+ul.ui-selectmenu-menu{
+    border: 1px solid #DCDCDC;
+    margin-left: -2px;
+}

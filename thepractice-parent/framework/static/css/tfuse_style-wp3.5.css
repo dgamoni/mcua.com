@@ -1,0 +1,55 @@
+#toplevel_page_themefuse div.wp-menu-image{
+    margin-left: 6px;
+    margin-right: -3px;
+}
+.folded #adminmenu a.menu-top {
+    height: 0;
+}
+.folded #adminmenu a.menu-top {
+    padding: 0 !important;
+}
+.submit input, .button, input.button, .button-primary, input.button-primary, .button-secondary, input.button-secondary, .button-highlighted, input.button-highlighted, #postcustomstuff .submit input {
+    -moz-box-sizing: content-box;
+    border-radius: 11px 11px 11px 11px !important;
+    font-size: 11px !important;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+    padding-bottom: 1px;
+}
+#toplevel_page_themefuse .wp-menu-name {
+    margin-top: -2px;
+}
+#adminmenu div.wp-menu-name {
+    padding-top: 4px;
+    padding-bottom: 5px;
+}
+#collapse-button {
+    margin: 8px -22px;
+}
+.folded #collapse-button{
+    margin: 8px 6px;
+}
+.upload_button_div .button {
+    padding: 0 10px 1px;
+}
+#tfuse_fields input {
+    padding: 0 10px 4px;
+}
+a:focus, a:active {
+    outline: none !important;
+}
+.tfuse_install_submit #install_btn{
+    padding-top: 0;
+}
+.tfuse_fields .button{
+    padding-bottom: 3px;
+}
+#publishing-action #publish{
+    padding: 0 12px 2px;
+}
+.skipinstall .submit input{
+    padding-top: 4px !important;
+}
+input.tagadd{
+    padding-top: 0 !important;
+}

@@ -1,0 +1,15 @@
+#toplevel_page_tf_contact_forms_list div.wp-menu-image  img,
+#toplevel_page_tf_reservations_list div.wp-menu-image  img,
+#toplevel_page_tf_slider_list  div.wp-menu-image img {
+    display: none;
+}
+#toplevel_page_tf_contact_forms_list .wp-menu-image,
+#toplevel_page_tf_reservations_list .wp-menu-image,
+#toplevel_page_tf_slider_list  div.wp-menu-image,
+#menu-posts-testimonials  div.wp-menu-image,
+#menu-posts-rooms  div.wp-menu-image,
+#menu-posts-portfolio div.wp-menu-image,
+#menu-posts-cases .wp-menu-image {
+    margin-left: 2px;
+    margin-top: 6px !important;
+}

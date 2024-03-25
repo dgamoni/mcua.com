@@ -1,0 +1,319 @@
+/*
+Theme Name: The Practice Child
+Theme URI: http://themefuse.com/demo/wp/thepractice/
+Description: Child theme for the The Practice. Child themes are the recommended way of making modifications to a theme. <a> href="http://codex.wordpress.org/Child_Themes">Reade More</a>
+Author: ThemeFuse
+Author URI: http://themefuse.com
+Template: thepractice-parent
+*/
+
+@import url("../thepractice-parent/style.css");
+
+#topmenu {
+	position: relative;
+	z-index: 30;
+	}
+
+.header_container header {
+padding-bottom: 2px;
+}
+				
+.widget_icon {
+	float: right;
+	margin-left: 0;
+	display:none
+	}
+
+.logoandaddress {
+	margin-left: 25px;
+	background-image: url(../../uploads/2012/12/logo_footer.png);
+	background-repeat: no-repeat;
+	}
+
+.widget-container.widget_text.logoandaddress{
+	padding-left: 110px;
+	}
+
+.MCUAcopyright {
+	padding-left: 610px;
+	text-align: left;
+	width: 100%;
+	color: #333333;
+}
+
+#middle .sidebar #categories-nav_menu-2 {
+	margin-top: 51px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+#middle .sidebar #categories-nav_menu-3 {
+	margin-top: 51px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+#middle .sidebar #categories-nav_menu-4 {
+	margin-top: 51px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+#middle .sidebar #categories-nav_menu-5 {
+	margin-top: 51px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+.post-item h1 {
+	color: #5EAE00;
+}
+
+/* PDF list */
+.pdf_dwnld ul {
+	margin:15px 0;
+	padding:0}
+
+.pdf_dwnld li {
+	padding-left:32px;
+	list-style:none;
+	margin-bottom:15px !important;
+	font-style:normal;
+	min-height:24px;
+	background-image: url(images/icons/icon_pdf.png);
+	background-repeat: no-repeat;
+}
+
+.pdf_dwnld li a {
+	text-decoration:none;
+	color: #595959;
+}
+
+.pdf_dwnld li a:hover { 
+	color: #5eae00; 
+}
+
+.pdf_dwnld h2 {
+	margin-bottom:30px !important
+}
+
+/* END - PDF list */
+
+.homehead h2 {
+	color: #5eae00;
+	line-height: 110%;
+	font-size: 76px;
+}
+
+.homepagehead {
+	font-family: 'Lato', Arial, Helvetica, sans-serif;
+	color: #5eae00;
+	font-size: 33px;
+	font-weight: bold;
+	line-height: 110%;
+}
+
+/*----------------------------------------------*/
+/* Notification Bar */
+/*----------------------------------------------*/
+
+#DVS_cnote_2, #pos1, #pos2, #pos3, #pos4, #pos5, #pos6, #pos7, #pos8, #pos9 {
+	font-family: 'Lato', Arial, Helvetica, sans-serif;
+	color: #616161;
+}
+
+.cnote_content_2 {
+	padding: 2px 3px 0 3px;
+	margin: 0px;
+	text-align: center;
+	background-image: url(.png);
+	background-repeat: no-repeat;
+
+}
+
+/*----------------------------------------------*/
+/* Style for homepage 5 Col Layout */
+/*----------------------------------------------*/
+@media only screen and (min-width: 990px) {
+	.row .col_1_5 {
+	width: 156px!important;}
+}
+
+.homebox .wp-caption-text {
+	font-family: 'Lato', Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+}
+p.wp-caption-text, .frame_caption, .image_frame figcaption {
+text-align: center;
+display: block;
+padding: 10px 0;
+font-size: 13px;
+font-weight: bold;
+}
+
+/*----------------------------------------------*/
+/* Toggle Content AAs */
+/*----------------------------------------------*/
+
+.toggle_content.boxed {
+background: #FFFFFF;
+}
+
+.toggle, h3.toggle {
+color: #4C4C4C;
+font-size: 14px !important;
+}
+
+.toggle, h3.toggle {
+	font: inherit;
+	font-size: 100%;
+}
+
+.post-detail .entry h3.toggle{
+font-weight: bold;
+}
+
+.toggle_content.boxed {
+	margin:-2px 0 0 0;
+	-webkit-box-shadow: 0px 2px 2px 0px #FFFFFF;
+	box-shadow: 0px 2px 2px 0px #FFFFFF;
+	-webkit-border-bottom-right-radius: 4px;
+	-webkit-border-bottom-left-radius: 4px;
+	-moz-border-radius-bottomright: 4px;
+	-moz-border-radius-bottomleft: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+
+.toggle_content.boxed .pdf_dwnld ul {
+margin: -15px 0px 0px -20px;
+padding: 0;
+}
+
+/*----------------------------------------------*/
+/* END Toggle Content AAs */
+/*----------------------------------------------*/
+
+/*----------------------------------------------*/
+/* Styled Tables AAs */
+/*----------------------------------------------*/
+.styled_table table tbody td {
+background: #E6E6E6;
+}
+.styled_table table tbody td {
+background: #FFFFFF;
+}
+.styled_table table tr th, .styled_table table tr td {
+border-top: 1px solid #FFFFFF;
+}
+.styled_table table tr th, .sb .box_title {
+background: whiteSmoke;
+color: #262626;
+}
+.styled_table table, .sb {
+border: 1px solid #FFFFFF;
+}
+.styled_table table tr th, .sb .box_title {
+	 background: whiteSmoke;
+	color: #262626;
+}
+/*----------------------------------------------*/
+/* End Styled Tables AAs */
+/*----------------------------------------------*/
+/*
+NOTES: 
+Parent changes to style sheets:
+Changed red to green 5EAE00
+Updated some pngs to green
+
+.MCUAcopyright {
+	padding-left: 60px;
+	text-align: right;
+	width: 100%;
+	}
+
+/* Changes to Parent "style.css" Stylesheet.
+
+Line 183
+.post-detail .entry h3 {
+	margin: 35px 0 15px;
+	font-weight:normal}
+	
+CHANGED TO:
+.post-detail .entry h3 {
+	margin: 5px 0 22px;
+	font-weight:normal}
+
+Line 259
+Lists
+======================================================== 
+ol { list-style: decimal;}
+CHANGED TO:
+ol { list-style: decimal; 
+	margin-left: 22px;}
+	
+
+/*----------------------------------------------*/
+/* Changes to Parent "Screen" Style.
+NOTE: Copy section to here for backup*/
+/*----------------------------------------------*/
+/*Screen.css
+Line 273 (Changed Padding)
+	.styled_table table tr th, 
+	.styled_table table tr td,
+	.sb .box_title	{
+		padding:0px 0px;}
+Line 601
+CHANGED TO: (Changed Padding)
+	.styled_table table tr th, 
+	.styled_table table tr td,
+	.sb .box_title	{
+		padding:1px 1px;}
+	.styled_table table tr td {
+		padding:0px 0px}
+	
+Lines 269 / 597 / 1324 (Changed from 16 to 13)
+
+	.styled_table table tr th,
+	.sb .box_title	{
+		font-size:13px;
+		font-weight:bold}
+
+Line 413
+#topmenu .dropdown li {
+		text-align:left;
+		padding:0 9px;
+}
+CHANGED TO:
+#topmenu .dropdown li {
+		text-align:left;
+		padding:0 11px;
+}
+
+Line 795
+ADDED:
+#topmenu .dropdown li.last {
+		border-right:0px solid #d2d2d2;
+	}
+(removes right hand border from last menu item)
+	
+NOTE: Will alter FLOAT and ALIGN attribute form parent style. 
+media="all"
+screen.css:1069@media only screen and (min-width: 990px)
+#topmenu .dropdown {
+float: right;
+text-align: left;
+}
+
+Lines 413 (Changed Padding from 8 to 9)
+	#topmenu .dropdown li {
+		text-align:left;
+		padding:0 9px;
+		float:left}
+
+
+*/
