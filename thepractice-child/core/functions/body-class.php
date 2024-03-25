@@ -11,6 +11,10 @@ function add_custom_body_class( $classes ) {
 
         $classes[] = 'single_odor_reports_template';
     }
+    else if(is_page_template('template-add-new-odor-reports.php')) {
+
+    	$classes[] = 'template_odor_reports_template';
+    }
 
     return $classes;
 }

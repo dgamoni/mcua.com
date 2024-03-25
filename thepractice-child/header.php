@@ -63,14 +63,17 @@
 
     <div class="header_container">
 		<?php if(is_front_page()): ?>
-		<div style="text-align: right; padding-right: 60px; font-size: 18px; color: #000;text-decoration: underline;">For odor concerns at any time, please call 732-588-1051.</div>
-		<?php endif; ?>
+    		<div style="text-align: right; padding-right: 60px; font-size: 18px; color: #000;text-decoration: underline;">For odor concerns at any time, please call 732-588-1051.</div>
+    		<a href="<?php bloginfo('url'); ?>/odor_reports/" class="home_reports_link">ODOR REPORTS</a>
+        <?php endif; ?>
         <header>
+
             <div class="header_left">
                 <div class="logo">
                     <a href="<?php bloginfo('url'); ?>" title="<?php bloginfo('description'); ?>"><img src="<?php echo tfuse_logo(); ?>" alt="<?php bloginfo('name'); ?>"  border="0" /></a>
                     <strong><?php bloginfo('name'); ?></strong>
                 </div>
+
             </div>
             <div class="header_right">
                 <?php  tfuse_menu('default');  ?>

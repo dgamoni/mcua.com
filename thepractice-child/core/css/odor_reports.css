@@ -2,10 +2,13 @@
 
 
 .archive_odor_reports_template .header_right {
-	display: none;
+	/*display: none;*/
 }
 .single_odor_reports_template .header_right {
-	display: none;
+	/*display: none;*/
+}
+.template_odor_reports_template .header_right {
+	/*display: none;*/
 }
 .odor_content h1 {
 	margin: 0 0 20px 0;
@@ -32,22 +35,15 @@
 
 
 
-@media only screen and (min-width: 768px) {
-	.archive_odor_reports_template  .container {
-	    width: 100%;
-	}
-	.archive_odor_reports_template  footer .container {
-	    width: 672px;
-	}
-}
 
-@media only screen and (min-width: 768px) {
-	.archive_odor_reports_template #middle.full_width .content {
-	    width: 760px;
+@media only screen and (min-width: 320px) {
+	.archive_odor_reports_template  #middle.full_width .content {
+	    width: 90%;
 	    margin: 0 auto;
+	    padding-left: 10px;
+	    padding-right: 10px;
 	}
 }
-
 
 @media only screen and (min-width: 480px) {
 	.archive_odor_reports_template  .container {
@@ -66,17 +62,131 @@
 	    padding-right: 10px;
 	}
 }
-@media only screen and (min-width: 320px) {
-	.archive_odor_reports_template  #middle.full_width .content {
-	    width: 90%;
-	    margin: 0 auto;
-	    padding-left: 10px;
-	    padding-right: 10px;
+
+
+@media only screen and (min-width: 768px) {
+	.archive_odor_reports_template  .container {
+	    width: 100%;
+	}
+	.archive_odor_reports_template  footer .container {
+	    width: 672px;
 	}
 }
+
+@media only screen and (min-width: 768px) {
+	.archive_odor_reports_template #middle.full_width .content {
+	    width: 760px;
+	    margin: 0 auto;
+	}
+}
+
 
 @media only screen and (min-width: 990px) {
 	.archive_odor_reports_template  .container {
 	    width: 870px;
 	}
+	.archive_odor_reports_template footer .container {
+	    width: 870px;
+	}
+}
+
+
+.ap-pro-form-field-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+        margin-bottom: 0;
+        position: relative;
+}
+.ap-pro-form-field-wrapper .label-wrap {
+    width: 19%;
+    background-color: #00ae1b4a;
+    border-bottom: 1px solid #ccc;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 2;
+}
+.wrap_start_hidden .ap-pro-form-field-wrapper .label-wrap {
+    width: 19%;
+    background-color: #f0f7707d;;
+}
+.ap-pro-form-field-wrapper .ap-pro-form-field {
+	width: 62%;
+    margin: 20px;
+}
+.wrap_start_public {
+	    border: 1px solid #ccc;
+    /*padding: 20px;*/
+}
+.wrap_start_hidden {
+		    border: 1px solid #ccc;
+   /* padding: 20px;*/
+}
+.non-publick-title {
+
+}
+.ap-pro-form-field-wrapper input[type="submit"] {
+    background: none repeat scroll 0 0 #595959;
+    border-color: #595959;
+     box-shadow: none; 
+    border-radius: 0;
+    text-transform: uppercase;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 14px;
+    height: 34px;
+    line-height: 28px;
+    padding: 0 24px 1px;
+}
+.ap-pro-form-field-wrapper input[type="submit"]:hover {
+   background: none repeat scroll 0 0 #595959;
+    box-shadow: none;
+    color: #fff;
+}
+.odor_submit_wrap {
+	display: flex;
+    justify-content: flex-end;
+}
+.ap-form-error {
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+.ap-pro-form-success-msg {
+	text-align: center;
+    padding: 17px;
+    font-size: 16px;
+    color: white;
+    background-color: green;
+    margin-bottom: 10px;
+}
+.odor-archive-head {
+	display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-direction: row;
+}
+@media only screen and (min-width: 990px) {
+	header .header_left {
+	   /* width: 100%;*/
+	}
+}
+.header_left, header {
+	/*position: relative;*/
+}
+.home_reports_link {
+    font-size: 16px;
+    font-weight: bold;
+    float: right;
+    padding-right: 60px;
+    padding-top: 5px;
+    display: none;
+}
+.template_odor_reports_template .ui-timepicker-standard {
+    z-index: 99 !important;
+    margin-top: -30px;
+}
+.template_odor_reports_template .ui-datepicker {
+    margin-top: -30px;
 }

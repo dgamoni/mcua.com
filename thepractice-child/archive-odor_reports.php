@@ -11,7 +11,13 @@ get_header();
 
         <div class="content odor_content" role="main">
 
-                <h1>ODOR REPORTS</h1>
+                <header class="odor-archive-head">
+                    <h1>ODOR REPORTS</h1>
+
+                    <div class="odor_search_wrap">
+                        <?php echo do_shortcode('[searchandfilter id="2517"]'); ?>
+                    </div>
+                </header>
 
                 <?php if (have_posts()) : $count = 0; ?>
 
@@ -44,13 +50,15 @@ get_header();
 
                         <?php endwhile; ?>
 
+                        <?php tfuse_pagination(); ?>
+
                      </div> <!-- end container-fluid -->
 
                 <?php else: ?>
                         <!-- <h5><?php _e('Sorry, no posts matched your criteria.', 'tfuse') ?></h5> -->
                 <?php endif; ?>
 
-                <?php tfuse_pagination(); ?>
+                <?php //tfuse_pagination(); ?>
         </div>
         <!--/ content -->
 
