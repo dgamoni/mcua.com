@@ -8,7 +8,7 @@
 
         
         <div class="MCUAcopyright">
-            <p><strong>&copy;2013 Middlesex County Utilities Authority</strong></p>
+            <p><strong>&copy;2018 Middlesex County Utilities Authority</strong></p>
         </div>
         
 

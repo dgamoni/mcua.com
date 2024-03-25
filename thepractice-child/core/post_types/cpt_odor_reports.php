@@ -50,6 +50,7 @@ function cpt_odor_reports() {
 		'exclude_from_search'   => false,
 		'publicly_queryable'    => true,
 		'capability_type'       => 'page',
+		'rewrite'               => array('slug'=>'odor-reports'),
 		'menu_icon'   			=> 'dashicons-list-view',
 	);
 	register_post_type( 'odor_reports', $args );

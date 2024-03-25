@@ -53,6 +53,9 @@
 .add-comment {
   width: 18px;
 }
+.page-contact-us .add-comment {
+      width: inherit;
+}
 .date {
   width: 80px;
 }

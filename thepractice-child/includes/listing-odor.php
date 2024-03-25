@@ -28,7 +28,11 @@
 
 
     <div class="wrapper dates">
-        <div class="column date"><a href="<?php the_permalink(); ?>"><?php echo $odor_date;?></a></div>
+        <div class="column date">
+            <!-- <a href="<?php the_permalink(); ?>"> -->
+            <?php echo $odor_date;?>
+            <!-- </a> -->
+        </div>
         <div class="column date time"><?php echo $odor_time;?></div>
         <div class="column date time"><?php echo $odor_caller;?></div>
     </div> <!-- end wrapper dates -->

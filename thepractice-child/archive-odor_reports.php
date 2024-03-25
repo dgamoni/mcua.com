@@ -19,6 +19,10 @@ get_header();
                     </div>
                 </header>
 
+                <div class="odor-header_info">
+                    <p>This page documents recent odor reports received by the MCUA. For odor concerns at any time, please call 732-588-1051.</p>
+                </div>
+
                 <?php if (have_posts()) : $count = 0; ?>
 
                     <div class="container-fluid" >
@@ -50,7 +54,7 @@ get_header();
 
                         <?php endwhile; ?>
 
-                        <?php tfuse_pagination(); ?>
+                        <?php tfuse_pagination_child(); ?>
 
                      </div> <!-- end container-fluid -->
 

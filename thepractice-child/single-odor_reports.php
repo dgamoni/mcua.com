@@ -11,8 +11,12 @@
 
                 <?php
 
-                    get_template_part( 'includes/content', 'single-odor' );
+                    // $odor_active = get_field( 'odor_active', $post->ID);
+                    // if ($odor_active) :
 
+                        get_template_part( 'includes/content', 'single-odor' );
+
+                    //endif;
                 ?>
 
             <?php endwhile; // end of the loop. ?>

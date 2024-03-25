@@ -181,7 +181,7 @@
     float: right;
     padding-right: 60px;
     padding-top: 5px;
-    display: none;
+    /*display: none;*/
 }
 .template_odor_reports_template .ui-timepicker-standard {
     z-index: 99 !important;
@@ -189,4 +189,62 @@
 }
 .template_odor_reports_template .ui-datepicker {
     margin-top: -30px;
+}
+input[type="submit"]#lwa_wp-submit, input[type="submit"].lwa-button-remember,
+.lwa-register-form  input[type="submit"] {
+    padding: 0px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.tf_pagination .page_prev, .tf_pagination .page_next {
+    height: 37px;
+}
+.tf_pagination .page_prev {
+    background-position: 0 -39px;
+}
+
+
+.archive_odor_reports_template #topmenu .dropdown .current-menu-ancestor > a {
+        /*color: #262626;*/
+}
+.lwa-avatar {
+    display: none;
+}
+.lwa-info {
+    text-align: center;
+}
+.entry .lwa-info a {
+    border: none;
+    color: #424242;
+    margin: 10px 0;
+    height: 32px;
+    line-height: 30px;
+    text-align: left;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+padding: 8px 16px;
+font-size: 14px;
+font-weight: bold;
+background: none repeat scroll 0 0 #5959591a;
+}
+
+.archive_odor_reports_template .tf_pagination .page_next span {
+    padding-left: 40px;
+    font-size: 25px;
+    font-weight: normal;
+    font-family: initial;
+}
+.archive_odor_reports_template .tf_pagination .page_prev span {
+    padding-right: 40px;
+    font-size: 25px;
+    font-weight: normal;
+    font-family: initial;
+}
+.odor-header_info {
+    
+}
+.odor-header_info p {
+    font-size: 14px;
+    padding: 20px 0;
+    font-weight: bold;
 }

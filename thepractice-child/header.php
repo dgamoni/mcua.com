@@ -64,7 +64,7 @@
     <div class="header_container">
 		<?php if(is_front_page()): ?>
     		<div style="text-align: right; padding-right: 60px; font-size: 18px; color: #000;text-decoration: underline;">For odor concerns at any time, please call 732-588-1051.</div>
-    		<a href="<?php bloginfo('url'); ?>/odor_reports/" class="home_reports_link">ODOR REPORTS</a>
+    		<a href="<?php bloginfo('url'); ?>/odor-reports/?ref=menu-item-746" class="home_reports_link">ODOR REPORTS</a>
         <?php endif; ?>
         <header>
 

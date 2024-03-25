@@ -37,3 +37,33 @@ foreach ($dirs as $dir) {
 //require_once CORE_PATH.'/lib/BFI_Thumb.php';
 
 // --------- end core load
+
+add_action('wp_footer', 'add_custom_css');
+function add_custom_css() { ?>
+
+    <?php if( is_post_type_archive( 'odor_reports' ) ) : ?>
+
+        <script>
+            jQuery(document).ready(function($) {
+    
+                function getCookie(key) {
+                    var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+                    return keyValue ? keyValue[2] : null;
+                }
+                console.log('readCookie: '+ getCookie('odor_reports_ref') );
+                if ( getCookie('odor_reports_ref').length > 0 ) {
+                    //$('.archive_odor_reports_template #topmenu .dropdown .current-menu-ancestor.' + getCookie('odor_reports_ref') + ' > a').css('color', '#5eae00');
+                    $('#topmenu .dropdown li.' + getCookie('odor_reports_ref') + ' > a').css('color', '#5eae00');
+                }
+
+            });
+        </script>
+
+    <?php endif; ?>
+
+    <style>
+
+    </style>
+    <?php
+}
+
