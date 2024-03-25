@@ -35,10 +35,11 @@ padding-bottom: 2px;
 	}
 
 .MCUAcopyright {
-	padding-left: 610px;
+	/*padding-left: 610px;*/
 	text-align: left;
 	width: 100%;
 	color: #333333;
+	text-align: right;
 }
 
 #middle .sidebar #categories-nav_menu-2 {

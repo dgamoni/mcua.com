@@ -1,0 +1,16 @@
+<?php
+
+add_filter('body_class','add_custom_body_class', 99 );
+function add_custom_body_class( $classes ) {
+
+    if(is_archive() && get_post_type() == 'odor_reports'){
+
+        $classes[] = 'archive_odor_reports_template';
+    }
+    else if(is_single() && get_post_type() == 'odor_reports'){
+
+        $classes[] = 'single_odor_reports_template';
+    }
+
+    return $classes;
+}

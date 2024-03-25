@@ -58,12 +58,12 @@
 -->
 </style>
 </head>
-<body<?php tfuse_custom_background();?>>
+<body <?php body_class($class); ?> <?php tfuse_custom_background();?>>
 <div class="body_wrap">
 
     <div class="header_container">
 		<?php if(is_front_page()): ?>
-		<div style="text-align: right; padding-right: 60px; font-size: 18px; color: #000;text-decoration: underline;">For odor concerns at any time, please call 732-721-3800.</div>
+		<div style="text-align: right; padding-right: 60px; font-size: 18px; color: #000;text-decoration: underline;">For odor concerns at any time, please call 732-588-1051.</div>
 		<?php endif; ?>
         <header>
             <div class="header_left">
